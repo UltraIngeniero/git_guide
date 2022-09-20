@@ -84,3 +84,8 @@ You can see all of the options with git pull in [link](https://github.com/git-gu
 By default, git push only updates the corresponding branch on the remote. So, if you are checked out to the main branch when you execute git push, then only the main branch will be updated. It's always a good idea to use git status to see what branch you are on before pushing to the remote.
   
 You can see all of the options with git push in [link](https://github.com/git-guides/git-push)
+
+### Some useful links
+[Hackerrank](https://www.hackerrank.com/domains/sql)
+[Sql practice](https://www.sql-practice.com/)
+[W3Schools](https://www.w3schools.com/sql/sql_exercises.asp)
